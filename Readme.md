@@ -8,6 +8,11 @@ the output can be formatted nearly as nicely as a spreadsheet, yet
 with the full power of a real programming language to generate the
 data.
 
+To run:
+
+* install Go >= 1.6
+* go run go-partition-calcs.go
+
 Example output:
 
 ```
